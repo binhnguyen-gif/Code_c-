@@ -1,0 +1,166 @@
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\appsettings.Development.json
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\appsettings.json
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\ThucHanhDangNhap.exe
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\ThucHanhDangNhap.deps.json
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\ThucHanhDangNhap.runtimeconfig.json
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\ThucHanhDangNhap.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\ThucHanhDangNhap.pdb
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Azure.Core.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Azure.Identity.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Humanizer.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.CodeDom.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Memory.Data.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Text.Json.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.csproj.AssemblyReference.cache
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.AssemblyInfoInputs.cache
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.AssemblyInfo.cs
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.csproj.CoreCompileInputs.cache
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.MvcApplicationPartsAssemblyInfo.cs
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\staticwebassets.build.json
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\staticwebassets.development.json
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\scopedcss\bundle\ThucHanhDangNhap.styles.css
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.csproj.CopyComplete
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\refint\ThucHanhDangNhap.dll
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.pdb
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.genruntimeconfig.cache
+C:\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ref\ThucHanhDangNhap.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\appsettings.json
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\ThucHanhDangNhap.exe
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\ThucHanhDangNhap.deps.json
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\ThucHanhDangNhap.runtimeconfig.json
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\ThucHanhDangNhap.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\ThucHanhDangNhap.pdb
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Humanizer.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.csproj.AssemblyReference.cache
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.AssemblyInfoInputs.cache
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.AssemblyInfo.cs
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.csproj.CoreCompileInputs.cache
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\scopedcss\bundle\ThucHanhDangNhap.styles.css
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.csproj.CopyComplete
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\refint\ThucHanhDangNhap.dll
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.pdb
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ThucHanhDangNhap.genruntimeconfig.cache
+C:\Users\binhn\OneDrive\Máy tính\C#\ThucHanhDangNhap\ThucHanhDangNhap\obj\Debug\net6.0\ref\ThucHanhDangNhap.dll
